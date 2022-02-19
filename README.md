@@ -11,6 +11,8 @@
 
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gabriielfeliciano&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriielfeliciano&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gabriielfeliciano&layout=co
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gabriielfeliciano&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
