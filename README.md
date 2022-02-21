@@ -1,4 +1,4 @@
-## I'm Gabriel Feliciano!
+## I'm Gabriel Feliciano
 My name is Gabriel Feliciano, I'm 19 years old, I'm studying Computer Engineering and I'm in the 7th semester. Currently I'm working on developing applications with Angular on the Frontend and .NET Core on the Backend.
 
 <a href="https://github.com/Gabriielfeliciano" alt="github" target="_blank">
