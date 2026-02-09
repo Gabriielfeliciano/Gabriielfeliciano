@@ -1,5 +1,5 @@
 ## I'm Gabriel Feliciano 👨🏽
-My name is Gabriel Feliciano Gonçalves, I'm 20 years old, I'm studying Computer Engineering and I'm in the 7th semester. Currently I'm working on developing applications with Angular on the Frontend and .NET Core on the Backend.
+My name is Gabriel Feliciano Gonçalves, I'm 23 years old. Currently I'm working on developing applications with Angular on the Frontend and .NET Core on the Backend.
 
 <a href="https://github.com/Gabriielfeliciano" alt="github" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-000000?&style=flat-square&logo=GitHub&logoColor=white">
