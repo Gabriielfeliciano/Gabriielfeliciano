@@ -13,5 +13,4 @@ My name is Gabriel Feliciano Gonçalves, I'm 23 years old. Currently I'm working
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5584981430120"/>
 </a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriielfeliciano&show_icons=true&theme=tokyonight"/>      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gabriielfeliciano&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
